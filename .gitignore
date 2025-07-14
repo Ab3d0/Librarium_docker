@@ -1,5 +1,5 @@
 # Ignorer le fichier .env dans le dossier backend
-backend/.env
+/backend/.env
 
 # Ignorer le dossier node_modules dans le dossier backend
-backend/node_modules/
+/backend/node_modules/
